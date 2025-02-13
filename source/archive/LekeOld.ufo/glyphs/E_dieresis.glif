@@ -2,8 +2,8 @@
 <glyph name="Edieresis" format="2">
   <advance width="1416"/>
   <unicode hex="00CB"/>
-  <anchor x="708" y="1260" name="U"/>
   <anchor x="708" y="-128" name="L"/>
+  <anchor x="708" y="1260" name="U"/>
   <outline>
     <contour>
       <point x="708" y="1152" type="curve" smooth="yes"/>
@@ -69,9 +69,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
   </lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="periodcentered" format="2">
   <advance width="1598"/>
   <unicode hex="00B7"/>
-  <anchor x="548" y="1260" name="U"/>
   <anchor x="548" y="-128" name="L"/>
+  <anchor x="548" y="1260" name="U"/>
   <outline>
     <contour>
       <point x="826" y="0" type="curve"/>
@@ -40,9 +40,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
   </lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="Ecircumflex" format="2">
   <advance width="995"/>
   <unicode hex="00CA"/>
-  <anchor x="323" y="429" name="U"/>
   <anchor x="323" y="-44" name="L"/>
+  <anchor x="323" y="429" name="U"/>
   <outline>
     <contour>
       <point x="469" y="1152" type="curve" smooth="yes"/>
@@ -47,9 +47,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
   </lib>
 </glyph>

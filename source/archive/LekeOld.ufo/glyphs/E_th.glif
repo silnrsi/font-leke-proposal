@@ -2,8 +2,8 @@
 <glyph name="Eth" format="2">
   <advance width="2165"/>
   <unicode hex="00D0"/>
-  <anchor x="662" y="1260" name="U"/>
   <anchor x="662" y="-128" name="L"/>
+  <anchor x="662" y="1260" name="U"/>
   <outline>
     <contour>
       <point x="522" y="1152" type="curve" smooth="yes"/>
@@ -75,9 +75,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
   </lib>
 </glyph>

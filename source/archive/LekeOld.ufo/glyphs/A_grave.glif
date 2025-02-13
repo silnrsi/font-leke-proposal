@@ -2,8 +2,8 @@
 <glyph name="Agrave" format="2">
   <advance width="1364"/>
   <unicode hex="00C0"/>
-  <anchor x="682" y="1260" name="U"/>
   <anchor x="682" y="-128" name="L"/>
+  <anchor x="682" y="1260" name="U"/>
   <outline>
     <contour>
       <point x="682" y="-20" type="curve" smooth="yes"/>
@@ -35,9 +35,9 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
   </lib>
 </glyph>

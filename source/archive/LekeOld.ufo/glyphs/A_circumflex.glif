@@ -2,6 +2,8 @@
 <glyph name="Acircumflex" format="2">
   <advance width="1172"/>
   <unicode hex="00C2"/>
+  <guideline x="0" y="836" angle="0"/>
+  <guideline x="-756" y="0" angle="90"/>
   <outline>
     <contour>
       <point x="586" y="456" type="line"/>
@@ -26,12 +28,10 @@
       <point x="916" y="250" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="836"/>
-  <guideline angle="90" x="-756" y="0"/>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  </dict>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
   </lib>
 </glyph>
