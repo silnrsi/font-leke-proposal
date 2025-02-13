@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mu" format="2">
   <advance width="1233"/>
-  <guideline x="-2204" y="0" angle="90"/>
-  <guideline x="-752" y="0" angle="90"/>
+  <guideline x="-2204"/>
+  <guideline x="-752"/>
   <outline>
     <contour>
       <point x="933" y="1294" type="line"/>
@@ -61,7 +61,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.651,1,0.6,1</string>
+      <string>0.651,1,0.600,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave_alt" format="2">
   <advance width="1785"/>
-  <guideline x="-1593" y="0" angle="90"/>
+  <guideline x="-1593"/>
   <outline>
     <contour>
       <point x="863" y="949" type="curve"/>
@@ -44,7 +44,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.6,0.602,1,1</string>
+      <string>0.600,0.604,1,1</string>
     </dict>
   </lib>
 </glyph>

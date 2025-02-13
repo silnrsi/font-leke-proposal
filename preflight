@@ -1,0 +1,15 @@
+#!/bin/sh
+
+echo "-----Normalizing Regular UFO..."
+psfnormalize source/LekeProposal-Regular.ufo
+
+#echo "-----Updating production names in Regular..."
+#psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/LekeProposal-Regular.ufo
+
+#echo "-----Updating glyph orders in Regular..."
+#psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/LekeProposal-Regular.ufo -p backup=False
+
+#echo "-----Updating woff metadata file..."
+#psfmakewoffmetadata -q -n "lekeproposal" -i "org.sil.fonts" source/LekeProposal-Regular.ufo
+
+echo "-----Preflight completed!"
