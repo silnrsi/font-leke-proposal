@@ -1,6 +1,4 @@
-# 2025-02-13 12:25:06 /Users/victor/.pyenv/versions/3.12.7/bin/psfexportunicodes
-# -o LekeOld-glyphlist.csv --allglyphs LekeOld.ufo
-
+glyph_name,usv
 .notdef,
 .null,
 A,0041

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="1158"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <contour>
+      <point x="1028" y="1015" type="line"/>
+      <point x="414" y="734" type="line"/>
+      <point x="1038" y="734" type="line"/>
+      <point x="1038" y="614" type="line"/>
+      <point x="120" y="614" type="line"/>
+      <point x="120" y="734" type="line"/>
+      <point x="742" y="1015" type="line"/>
+      <point x="140" y="1015" type="line"/>
+      <point x="140" y="1135" type="line"/>
+      <point x="1028" y="1133" type="line"/>
+    </contour>
+    <contour>
+      <point x="1028" y="401" type="line"/>
+      <point x="414" y="120" type="line"/>
+      <point x="1038" y="120" type="line"/>
+      <point x="1038" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="120" type="line"/>
+      <point x="742" y="401" type="line"/>
+      <point x="140" y="401" type="line"/>
+      <point x="140" y="521" type="line"/>
+      <point x="1028" y="519" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+    </dict>
+  </lib>
+</glyph>
