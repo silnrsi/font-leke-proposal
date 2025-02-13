@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="egrave" format="2">
+  <unicode hex="00E8"/>
+  <outline>
+    <contour>
+      <point x="-399" y="1311" type="line"/>
+      <point x="-1046" y="1877" type="line"/>
+      <point x="-962" y="1964" type="line"/>
+      <point x="-317" y="1399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

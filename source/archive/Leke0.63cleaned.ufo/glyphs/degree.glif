@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="2">
+  <advance width="1360"/>
+  <unicode hex="00B0"/>
+  <anchor x="680" y="-128" name="L"/>
+  <anchor x="680" y="1260" name="U"/>
+  <outline>
+    <contour>
+      <point x="1084" y="566" type="curve" smooth="yes"/>
+      <point x="1084" y="330"/>
+      <point x="912" y="136"/>
+      <point x="680" y="136" type="curve" smooth="yes"/>
+      <point x="448" y="136"/>
+      <point x="276" y="330"/>
+      <point x="276" y="566" type="curve" smooth="yes"/>
+      <point x="276" y="802"/>
+      <point x="456" y="996"/>
+      <point x="680" y="996" type="curve" smooth="yes"/>
+      <point x="920" y="996"/>
+      <point x="1084" y="802"/>
+    </contour>
+    <contour>
+      <point x="120" y="566" type="curve" smooth="yes"/>
+      <point x="120" y="244"/>
+      <point x="366" y="-20"/>
+      <point x="680" y="-20" type="curve"/>
+      <point x="994" y="-20"/>
+      <point x="1240" y="244"/>
+      <point x="1240" y="566" type="curve" smooth="yes"/>
+      <point x="1240" y="886"/>
+      <point x="1002" y="1152"/>
+      <point x="680" y="1152" type="curve" smooth="yes"/>
+      <point x="374" y="1152"/>
+      <point x="120" y="886"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
