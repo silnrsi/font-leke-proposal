@@ -1,0 +1,51 @@
+FONTLOG
+Leke Proposal
+=============
+
+This file provides detailed information on the Leke Proposal font.
+This information should be distributed along with the Doulos SIL font and
+any derivative works.
+
+## About this project
+
+The goal of this project is to produce a provisional font for use in
+preparing a Unicode proposal for the Leke script. The font produced
+should not be used for other purposes or as a source for other fonts,
+as the codepoints are only temporary and the character support is very
+limited.
+
+## ChangeLog
+
+### 13 Feb 2025 (SIL WSTech team) Leke Proposal version 1.000
+- First release of updated font
+
+### 2027 (SIL MSEAG) Leke 0.63
+- Temporary font for language and script research and testing
+
+## Information for developers and contributors
+
+We welcome other developers who wish to get involved in supporting and
+enhancing these fonts or who want to modify them. However, the current project
+is not intended to produce fonts for general use.
+
+SIL’s fonts are licensed according to the terms of the SIL Open Font License
+(https://openfontlicense.org). The OFL allows the fonts to be used, studied,
+modified and redistributed freely as long as they are not sold by themselves.
+For details see the OFL.txt and OFL-FAQ.txt files in the package.
+
+## Acknowledgements
+
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Victor Gaultney, Debbi Hosken, Martin Hosken
+W: https://software.sil.org/wstech/
+D: SIL designers and font engineers
+
+The Leke Proposal  project is maintained by SIL Global, a global,
+faith-based nonprofit that works with local communities around the world
+to develop language solutions that expand possibilities for a better life.
+
+For more information or support please visit:
+https://software.sil.org/wstech/
